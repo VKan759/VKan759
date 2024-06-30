@@ -1,6 +1,6 @@
-My name is Vyacheslav. Welcome! :v:
+Привет! Меня зовут Vyacheslav. :v:
 -
-I learn Java at [Job4j](https://job4j.ru) :tea:
+Изучаю Java :tea:
 -
 ![Java](https://img.shields.io/badge/Java->=8-orange)
 -
